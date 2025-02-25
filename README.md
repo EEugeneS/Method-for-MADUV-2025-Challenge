@@ -1,4 +1,4 @@
-# Method_for_MADUV_Challenge_2025
+# Method for MADUV Challenge 2025
 
 This Github repo is a dispaly of our proposed system for The 1st INTERSPEECH Mice Autism Detection via Ultrasound Vocalisation (MADUV) Challenge [ [1] ](#1).
 
@@ -12,7 +12,7 @@ The system is designed for the classification of ultrasonic vocalisations (USVs)
 1. First, install the required dependencies included in `requirements.txt`.
 2. Clone BEATs repository and download pre-trained checkpoints from [/microsoft/unilm/tree/master/beats](https://github.com/microsoft/unilm/tree/master/beats) and put it in `\train_beats`.
 2. Download our fine-tuned BEATs from [huggingface.co](), and save it to `\train_beats`.
-3. USV
+3. Download MADUV dataset, and save it to `\train_beats\dataset`
 
 ## Acknowledgements
 
