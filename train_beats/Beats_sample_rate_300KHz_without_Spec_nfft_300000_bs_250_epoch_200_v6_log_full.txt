@@ -1,0 +1,806 @@
+-->	Epoch 0001:	Training Loss: 0.691
+-->	Epoch 0001:	Validation Loss: 0.664
+-->	Epoch 0001:	Segment UAR (Pred): 0.570
+Model saved at Beats_sample_rate_300KHz_Spec_nfft_300000_bs_250_epoch_200_v6_model_full/epoch_1_best_segment_0.570.pth
+-->	Epoch 0001:	Subject UAR: 0.653
+-->	Epoch 0002:	Training Loss: 0.673
+-->	Epoch 0002:	Validation Loss: 0.640
+-->	Epoch 0002:	Segment UAR (Pred): 0.631
+Model saved at Beats_sample_rate_300KHz_Spec_nfft_300000_bs_250_epoch_200_v6_model_full/epoch_2_best_segment_0.631.pth
+-->	Epoch 0002:	Subject UAR: 0.625
+-->	Epoch 0003:	Training Loss: 0.663
+-->	Epoch 0003:	Validation Loss: 0.610
+-->	Epoch 0003:	Segment UAR (Pred): 0.642
+Model saved at Beats_sample_rate_300KHz_Spec_nfft_300000_bs_250_epoch_200_v6_model_full/epoch_3_best_segment_0.642.pth
+-->	Epoch 0003:	Subject UAR: 0.757
+-->	Epoch 0004:	Training Loss: 0.653
+-->	Epoch 0004:	Validation Loss: 0.577
+-->	Epoch 0004:	Segment UAR (Pred): 0.680
+Model saved at Beats_sample_rate_300KHz_Spec_nfft_300000_bs_250_epoch_200_v6_model_full/epoch_4_best_segment_0.680.pth
+-->	Epoch 0004:	Subject UAR: 0.757
+-->	Epoch 0005:	Training Loss: 0.650
+-->	Epoch 0005:	Validation Loss: 0.574
+-->	Epoch 0005:	Segment UAR (Pred): 0.669
+-->	Epoch 0005:	Subject UAR: 0.750
+-->	Epoch 0006:	Training Loss: 0.636
+-->	Epoch 0006:	Validation Loss: 0.551
+-->	Epoch 0006:	Segment UAR (Pred): 0.650
+-->	Epoch 0006:	Subject UAR: 0.694
+-->	Epoch 0007:	Training Loss: 0.638
+-->	Epoch 0007:	Validation Loss: 0.657
+-->	Epoch 0007:	Segment UAR (Pred): 0.607
+-->	Epoch 0007:	Subject UAR: 0.562
+-->	Epoch 0008:	Training Loss: 0.623
+-->	Epoch 0008:	Validation Loss: 0.539
+-->	Epoch 0008:	Segment UAR (Pred): 0.670
+-->	Epoch 0008:	Subject UAR: 0.764
+-->	Epoch 0009:	Training Loss: 0.610
+-->	Epoch 0009:	Validation Loss: 0.649
+-->	Epoch 0009:	Segment UAR (Pred): 0.617
+-->	Epoch 0009:	Subject UAR: 0.625
+-->	Epoch 0010:	Training Loss: 0.590
+-->	Epoch 0010:	Validation Loss: 0.552
+-->	Epoch 0010:	Segment UAR (Pred): 0.662
+-->	Epoch 0010:	Subject UAR: 0.757
+-->	Epoch 0011:	Training Loss: 0.602
+-->	Epoch 0011:	Validation Loss: 0.761
+-->	Epoch 0011:	Segment UAR (Pred): 0.559
+-->	Epoch 0011:	Subject UAR: 0.562
+-->	Epoch 0012:	Training Loss: 0.584
+-->	Epoch 0012:	Validation Loss: 0.700
+-->	Epoch 0012:	Segment UAR (Pred): 0.582
+-->	Epoch 0012:	Subject UAR: 0.632
+-->	Epoch 0013:	Training Loss: 0.578
+-->	Epoch 0013:	Validation Loss: 0.636
+-->	Epoch 0013:	Segment UAR (Pred): 0.624
+-->	Epoch 0013:	Subject UAR: 0.757
+-->	Epoch 0014:	Training Loss: 0.570
+-->	Epoch 0014:	Validation Loss: 0.559
+-->	Epoch 0014:	Segment UAR (Pred): 0.658
+-->	Epoch 0014:	Subject UAR: 0.764
+-->	Epoch 0015:	Training Loss: 0.585
+-->	Epoch 0015:	Validation Loss: 0.754
+-->	Epoch 0015:	Segment UAR (Pred): 0.569
+-->	Epoch 0015:	Subject UAR: 0.562
+-->	Epoch 0016:	Training Loss: 0.569
+-->	Epoch 0016:	Validation Loss: 0.523
+-->	Epoch 0016:	Segment UAR (Pred): 0.689
+Model saved at Beats_sample_rate_300KHz_Spec_nfft_300000_bs_250_epoch_200_v6_model_full/epoch_16_best_segment_0.689.pth
+-->	Epoch 0016:	Subject UAR: 0.764
+-->	Epoch 0017:	Training Loss: 0.547
+-->	Epoch 0017:	Validation Loss: 0.848
+-->	Epoch 0017:	Segment UAR (Pred): 0.580
+-->	Epoch 0017:	Subject UAR: 0.562
+-->	Epoch 0018:	Training Loss: 0.582
+-->	Epoch 0018:	Validation Loss: 0.705
+-->	Epoch 0018:	Segment UAR (Pred): 0.622
+-->	Epoch 0018:	Subject UAR: 0.562
+-->	Epoch 0019:	Training Loss: 0.532
+-->	Epoch 0019:	Validation Loss: 0.549
+-->	Epoch 0019:	Segment UAR (Pred): 0.729
+Model saved at Beats_sample_rate_300KHz_Spec_nfft_300000_bs_250_epoch_200_v6_model_full/epoch_19_best_segment_0.729.pth
+-->	Epoch 0019:	Subject UAR: 0.882
+-->	Epoch 0020:	Training Loss: 0.526
+-->	Epoch 0020:	Validation Loss: 0.708
+-->	Epoch 0020:	Segment UAR (Pred): 0.603
+-->	Epoch 0020:	Subject UAR: 0.688
+-->	Epoch 0021:	Training Loss: 0.517
+-->	Epoch 0021:	Validation Loss: 0.558
+-->	Epoch 0021:	Segment UAR (Pred): 0.709
+-->	Epoch 0021:	Subject UAR: 0.826
+-->	Epoch 0022:	Training Loss: 0.506
+-->	Epoch 0022:	Validation Loss: 0.911
+-->	Epoch 0022:	Segment UAR (Pred): 0.585
+-->	Epoch 0022:	Subject UAR: 0.562
+-->	Epoch 0023:	Training Loss: 0.470
+-->	Epoch 0023:	Validation Loss: 0.717
+-->	Epoch 0023:	Segment UAR (Pred): 0.658
+-->	Epoch 0023:	Subject UAR: 0.632
+-->	Epoch 0024:	Training Loss: 0.402
+-->	Epoch 0024:	Validation Loss: 0.813
+-->	Epoch 0024:	Segment UAR (Pred): 0.641
+-->	Epoch 0024:	Subject UAR: 0.632
+-->	Epoch 0025:	Training Loss: 0.405
+-->	Epoch 0025:	Validation Loss: 0.911
+-->	Epoch 0025:	Segment UAR (Pred): 0.604
+-->	Epoch 0025:	Subject UAR: 0.632
+-->	Epoch 0026:	Training Loss: 0.379
+-->	Epoch 0026:	Validation Loss: 1.218
+-->	Epoch 0026:	Segment UAR (Pred): 0.568
+-->	Epoch 0026:	Subject UAR: 0.562
+-->	Epoch 0027:	Training Loss: 0.411
+-->	Epoch 0027:	Validation Loss: 0.923
+-->	Epoch 0027:	Segment UAR (Pred): 0.598
+-->	Epoch 0027:	Subject UAR: 0.632
+-->	Epoch 0028:	Training Loss: 0.378
+-->	Epoch 0028:	Validation Loss: 0.785
+-->	Epoch 0028:	Segment UAR (Pred): 0.625
+-->	Epoch 0028:	Subject UAR: 0.764
+-->	Epoch 0029:	Training Loss: 0.384
+-->	Epoch 0029:	Validation Loss: 0.834
+-->	Epoch 0029:	Segment UAR (Pred): 0.655
+-->	Epoch 0029:	Subject UAR: 0.778
+-->	Epoch 0030:	Training Loss: 0.456
+-->	Epoch 0030:	Validation Loss: 0.705
+-->	Epoch 0030:	Segment UAR (Pred): 0.681
+-->	Epoch 0030:	Subject UAR: 0.882
+-->	Epoch 0031:	Training Loss: 0.398
+-->	Epoch 0031:	Validation Loss: 1.006
+-->	Epoch 0031:	Segment UAR (Pred): 0.582
+-->	Epoch 0031:	Subject UAR: 0.562
+-->	Epoch 0032:	Training Loss: 0.449
+-->	Epoch 0032:	Validation Loss: 0.720
+-->	Epoch 0032:	Segment UAR (Pred): 0.646
+-->	Epoch 0032:	Subject UAR: 0.889
+-->	Epoch 0033:	Training Loss: 0.351
+-->	Epoch 0033:	Validation Loss: 0.999
+-->	Epoch 0033:	Segment UAR (Pred): 0.633
+-->	Epoch 0033:	Subject UAR: 0.632
+-->	Epoch 0034:	Training Loss: 0.337
+-->	Epoch 0034:	Validation Loss: 0.865
+-->	Epoch 0034:	Segment UAR (Pred): 0.650
+-->	Epoch 0034:	Subject UAR: 0.826
+-->	Epoch 0035:	Training Loss: 0.281
+-->	Epoch 0035:	Validation Loss: 0.984
+-->	Epoch 0035:	Segment UAR (Pred): 0.664
+-->	Epoch 0035:	Subject UAR: 0.757
+-->	Epoch 0036:	Training Loss: 0.255
+-->	Epoch 0036:	Validation Loss: 1.085
+-->	Epoch 0036:	Segment UAR (Pred): 0.630
+-->	Epoch 0036:	Subject UAR: 0.819
+-->	Epoch 0037:	Training Loss: 0.239
+-->	Epoch 0037:	Validation Loss: 1.203
+-->	Epoch 0037:	Segment UAR (Pred): 0.617
+-->	Epoch 0037:	Subject UAR: 0.694
+-->	Epoch 0038:	Training Loss: 0.291
+-->	Epoch 0038:	Validation Loss: 1.172
+-->	Epoch 0038:	Segment UAR (Pred): 0.624
+-->	Epoch 0038:	Subject UAR: 0.569
+-->	Epoch 0039:	Training Loss: 0.259
+-->	Epoch 0039:	Validation Loss: 1.165
+-->	Epoch 0039:	Segment UAR (Pred): 0.650
+-->	Epoch 0039:	Subject UAR: 0.562
+-->	Epoch 0040:	Training Loss: 0.229
+-->	Epoch 0040:	Validation Loss: 0.962
+-->	Epoch 0040:	Segment UAR (Pred): 0.652
+-->	Epoch 0040:	Subject UAR: 0.771
+-->	Epoch 0041:	Training Loss: 0.220
+-->	Epoch 0041:	Validation Loss: 1.217
+-->	Epoch 0041:	Segment UAR (Pred): 0.603
+-->	Epoch 0041:	Subject UAR: 0.507
+-->	Epoch 0042:	Training Loss: 0.261
+-->	Epoch 0042:	Validation Loss: 1.151
+-->	Epoch 0042:	Segment UAR (Pred): 0.639
+-->	Epoch 0042:	Subject UAR: 0.660
+-->	Epoch 0043:	Training Loss: 0.401
+-->	Epoch 0043:	Validation Loss: 1.103
+-->	Epoch 0043:	Segment UAR (Pred): 0.590
+-->	Epoch 0043:	Subject UAR: 0.708
+-->	Epoch 0044:	Training Loss: 0.280
+-->	Epoch 0044:	Validation Loss: 0.923
+-->	Epoch 0044:	Segment UAR (Pred): 0.626
+-->	Epoch 0044:	Subject UAR: 0.694
+-->	Epoch 0045:	Training Loss: 0.249
+-->	Epoch 0045:	Validation Loss: 1.002
+-->	Epoch 0045:	Segment UAR (Pred): 0.607
+-->	Epoch 0045:	Subject UAR: 0.660
+-->	Epoch 0046:	Training Loss: 0.229
+-->	Epoch 0046:	Validation Loss: 1.226
+-->	Epoch 0046:	Segment UAR (Pred): 0.626
+-->	Epoch 0046:	Subject UAR: 0.819
+-->	Epoch 0047:	Training Loss: 0.234
+-->	Epoch 0047:	Validation Loss: 1.047
+-->	Epoch 0047:	Segment UAR (Pred): 0.637
+-->	Epoch 0047:	Subject UAR: 0.764
+-->	Epoch 0048:	Training Loss: 0.160
+-->	Epoch 0048:	Validation Loss: 0.966
+-->	Epoch 0048:	Segment UAR (Pred): 0.668
+-->	Epoch 0048:	Subject UAR: 0.826
+-->	Epoch 0049:	Training Loss: 0.144
+-->	Epoch 0049:	Validation Loss: 1.203
+-->	Epoch 0049:	Segment UAR (Pred): 0.652
+-->	Epoch 0049:	Subject UAR: 0.819
+-->	Epoch 0050:	Training Loss: 0.170
+-->	Epoch 0050:	Validation Loss: 1.237
+-->	Epoch 0050:	Segment UAR (Pred): 0.649
+-->	Epoch 0050:	Subject UAR: 0.819
+-->	Epoch 0051:	Training Loss: 0.134
+-->	Epoch 0051:	Validation Loss: 1.409
+-->	Epoch 0051:	Segment UAR (Pred): 0.620
+-->	Epoch 0051:	Subject UAR: 0.764
+-->	Epoch 0052:	Training Loss: 0.131
+-->	Epoch 0052:	Validation Loss: 1.400
+-->	Epoch 0052:	Segment UAR (Pred): 0.627
+-->	Epoch 0052:	Subject UAR: 0.826
+-->	Epoch 0053:	Training Loss: 0.128
+-->	Epoch 0053:	Validation Loss: 1.419
+-->	Epoch 0053:	Segment UAR (Pred): 0.612
+-->	Epoch 0053:	Subject UAR: 0.819
+-->	Epoch 0054:	Training Loss: 0.114
+-->	Epoch 0054:	Validation Loss: 1.423
+-->	Epoch 0054:	Segment UAR (Pred): 0.657
+-->	Epoch 0054:	Subject UAR: 0.826
+-->	Epoch 0055:	Training Loss: 0.094
+-->	Epoch 0055:	Validation Loss: 1.353
+-->	Epoch 0055:	Segment UAR (Pred): 0.633
+-->	Epoch 0055:	Subject UAR: 0.632
+-->	Epoch 0056:	Training Loss: 0.142
+-->	Epoch 0056:	Validation Loss: 1.407
+-->	Epoch 0056:	Segment UAR (Pred): 0.640
+-->	Epoch 0056:	Subject UAR: 0.833
+-->	Epoch 0057:	Training Loss: 0.119
+-->	Epoch 0057:	Validation Loss: 1.475
+-->	Epoch 0057:	Segment UAR (Pred): 0.601
+-->	Epoch 0057:	Subject UAR: 0.694
+-->	Epoch 0058:	Training Loss: 0.133
+-->	Epoch 0058:	Validation Loss: 1.591
+-->	Epoch 0058:	Segment UAR (Pred): 0.594
+-->	Epoch 0058:	Subject UAR: 0.639
+-->	Epoch 0059:	Training Loss: 0.104
+-->	Epoch 0059:	Validation Loss: 1.460
+-->	Epoch 0059:	Segment UAR (Pred): 0.636
+-->	Epoch 0059:	Subject UAR: 0.653
+-->	Epoch 0060:	Training Loss: 0.118
+-->	Epoch 0060:	Validation Loss: 1.876
+-->	Epoch 0060:	Segment UAR (Pred): 0.562
+-->	Epoch 0060:	Subject UAR: 0.500
+-->	Epoch 0061:	Training Loss: 0.147
+-->	Epoch 0061:	Validation Loss: 1.406
+-->	Epoch 0061:	Segment UAR (Pred): 0.597
+-->	Epoch 0061:	Subject UAR: 0.764
+-->	Epoch 0062:	Training Loss: 0.112
+-->	Epoch 0062:	Validation Loss: 1.431
+-->	Epoch 0062:	Segment UAR (Pred): 0.590
+-->	Epoch 0062:	Subject UAR: 0.694
+-->	Epoch 0063:	Training Loss: 0.120
+-->	Epoch 0063:	Validation Loss: 1.556
+-->	Epoch 0063:	Segment UAR (Pred): 0.611
+-->	Epoch 0063:	Subject UAR: 0.882
+-->	Epoch 0064:	Training Loss: 0.104
+-->	Epoch 0064:	Validation Loss: 1.596
+-->	Epoch 0064:	Segment UAR (Pred): 0.623
+-->	Epoch 0064:	Subject UAR: 0.757
+-->	Epoch 0065:	Training Loss: 0.080
+-->	Epoch 0065:	Validation Loss: 1.589
+-->	Epoch 0065:	Segment UAR (Pred): 0.608
+-->	Epoch 0065:	Subject UAR: 0.826
+-->	Epoch 0066:	Training Loss: 0.163
+-->	Epoch 0066:	Validation Loss: 1.844
+-->	Epoch 0066:	Segment UAR (Pred): 0.618
+-->	Epoch 0066:	Subject UAR: 0.507
+-->	Epoch 0067:	Training Loss: 0.135
+-->	Epoch 0067:	Validation Loss: 1.614
+-->	Epoch 0067:	Segment UAR (Pred): 0.586
+-->	Epoch 0067:	Subject UAR: 0.611
+-->	Epoch 0068:	Training Loss: 0.183
+-->	Epoch 0068:	Validation Loss: 1.276
+-->	Epoch 0068:	Segment UAR (Pred): 0.633
+-->	Epoch 0068:	Subject UAR: 0.833
+-->	Epoch 0069:	Training Loss: 0.144
+-->	Epoch 0069:	Validation Loss: 1.866
+-->	Epoch 0069:	Segment UAR (Pred): 0.576
+-->	Epoch 0069:	Subject UAR: 0.507
+-->	Epoch 0070:	Training Loss: 0.213
+-->	Epoch 0070:	Validation Loss: 1.735
+-->	Epoch 0070:	Segment UAR (Pred): 0.576
+-->	Epoch 0070:	Subject UAR: 0.493
+-->	Epoch 0071:	Training Loss: 0.148
+-->	Epoch 0071:	Validation Loss: 1.506
+-->	Epoch 0071:	Segment UAR (Pred): 0.599
+-->	Epoch 0071:	Subject UAR: 0.632
+-->	Epoch 0072:	Training Loss: 0.156
+-->	Epoch 0072:	Validation Loss: 1.705
+-->	Epoch 0072:	Segment UAR (Pred): 0.589
+-->	Epoch 0072:	Subject UAR: 0.611
+-->	Epoch 0073:	Training Loss: 0.122
+-->	Epoch 0073:	Validation Loss: 1.598
+-->	Epoch 0073:	Segment UAR (Pred): 0.572
+-->	Epoch 0073:	Subject UAR: 0.653
+-->	Epoch 0074:	Training Loss: 0.089
+-->	Epoch 0074:	Validation Loss: 1.562
+-->	Epoch 0074:	Segment UAR (Pred): 0.619
+-->	Epoch 0074:	Subject UAR: 0.757
+-->	Epoch 0075:	Training Loss: 0.115
+-->	Epoch 0075:	Validation Loss: 1.430
+-->	Epoch 0075:	Segment UAR (Pred): 0.623
+-->	Epoch 0075:	Subject UAR: 0.826
+-->	Epoch 0076:	Training Loss: 0.079
+-->	Epoch 0076:	Validation Loss: 1.639
+-->	Epoch 0076:	Segment UAR (Pred): 0.626
+-->	Epoch 0076:	Subject UAR: 0.757
+-->	Epoch 0077:	Training Loss: 0.089
+-->	Epoch 0077:	Validation Loss: 1.403
+-->	Epoch 0077:	Segment UAR (Pred): 0.637
+-->	Epoch 0077:	Subject UAR: 0.764
+-->	Epoch 0078:	Training Loss: 0.186
+-->	Epoch 0078:	Validation Loss: 1.304
+-->	Epoch 0078:	Segment UAR (Pred): 0.626
+-->	Epoch 0078:	Subject UAR: 0.694
+-->	Epoch 0079:	Training Loss: 0.091
+-->	Epoch 0079:	Validation Loss: 1.271
+-->	Epoch 0079:	Segment UAR (Pred): 0.636
+-->	Epoch 0079:	Subject UAR: 0.757
+-->	Epoch 0080:	Training Loss: 0.176
+-->	Epoch 0080:	Validation Loss: 1.301
+-->	Epoch 0080:	Segment UAR (Pred): 0.622
+-->	Epoch 0080:	Subject UAR: 0.694
+-->	Epoch 0081:	Training Loss: 0.123
+-->	Epoch 0081:	Validation Loss: 1.389
+-->	Epoch 0081:	Segment UAR (Pred): 0.631
+-->	Epoch 0081:	Subject UAR: 0.819
+-->	Epoch 0082:	Training Loss: 0.080
+-->	Epoch 0082:	Validation Loss: 1.654
+-->	Epoch 0082:	Segment UAR (Pred): 0.592
+-->	Epoch 0082:	Subject UAR: 0.653
+-->	Epoch 0083:	Training Loss: 0.119
+-->	Epoch 0083:	Validation Loss: 1.633
+-->	Epoch 0083:	Segment UAR (Pred): 0.618
+-->	Epoch 0083:	Subject UAR: 0.889
+-->	Epoch 0084:	Training Loss: 0.089
+-->	Epoch 0084:	Validation Loss: 1.569
+-->	Epoch 0084:	Segment UAR (Pred): 0.616
+-->	Epoch 0084:	Subject UAR: 0.701
+-->	Epoch 0085:	Training Loss: 0.067
+-->	Epoch 0085:	Validation Loss: 1.626
+-->	Epoch 0085:	Segment UAR (Pred): 0.597
+-->	Epoch 0085:	Subject UAR: 0.639
+-->	Epoch 0086:	Training Loss: 0.071
+-->	Epoch 0086:	Validation Loss: 1.439
+-->	Epoch 0086:	Segment UAR (Pred): 0.640
+-->	Epoch 0086:	Subject UAR: 0.757
+-->	Epoch 0087:	Training Loss: 0.064
+-->	Epoch 0087:	Validation Loss: 1.718
+-->	Epoch 0087:	Segment UAR (Pred): 0.627
+-->	Epoch 0087:	Subject UAR: 0.826
+-->	Epoch 0088:	Training Loss: 0.049
+-->	Epoch 0088:	Validation Loss: 1.962
+-->	Epoch 0088:	Segment UAR (Pred): 0.582
+-->	Epoch 0088:	Subject UAR: 0.819
+-->	Epoch 0089:	Training Loss: 0.060
+-->	Epoch 0089:	Validation Loss: 2.028
+-->	Epoch 0089:	Segment UAR (Pred): 0.617
+-->	Epoch 0089:	Subject UAR: 0.639
+-->	Epoch 0090:	Training Loss: 0.077
+-->	Epoch 0090:	Validation Loss: 2.006
+-->	Epoch 0090:	Segment UAR (Pred): 0.627
+-->	Epoch 0090:	Subject UAR: 0.757
+-->	Epoch 0091:	Training Loss: 0.083
+-->	Epoch 0091:	Validation Loss: 1.986
+-->	Epoch 0091:	Segment UAR (Pred): 0.614
+-->	Epoch 0091:	Subject UAR: 0.708
+-->	Epoch 0092:	Training Loss: 0.081
+-->	Epoch 0092:	Validation Loss: 1.578
+-->	Epoch 0092:	Segment UAR (Pred): 0.617
+-->	Epoch 0092:	Subject UAR: 0.757
+-->	Epoch 0093:	Training Loss: 0.044
+-->	Epoch 0093:	Validation Loss: 1.295
+-->	Epoch 0093:	Segment UAR (Pred): 0.647
+-->	Epoch 0093:	Subject UAR: 0.882
+-->	Epoch 0094:	Training Loss: 0.065
+-->	Epoch 0094:	Validation Loss: 1.450
+-->	Epoch 0094:	Segment UAR (Pred): 0.620
+-->	Epoch 0094:	Subject UAR: 0.764
+-->	Epoch 0095:	Training Loss: 0.058
+-->	Epoch 0095:	Validation Loss: 1.751
+-->	Epoch 0095:	Segment UAR (Pred): 0.598
+-->	Epoch 0095:	Subject UAR: 0.653
+-->	Epoch 0096:	Training Loss: 0.052
+-->	Epoch 0096:	Validation Loss: 1.756
+-->	Epoch 0096:	Segment UAR (Pred): 0.617
+-->	Epoch 0096:	Subject UAR: 0.701
+-->	Epoch 0097:	Training Loss: 0.039
+-->	Epoch 0097:	Validation Loss: 1.833
+-->	Epoch 0097:	Segment UAR (Pred): 0.617
+-->	Epoch 0097:	Subject UAR: 0.701
+-->	Epoch 0098:	Training Loss: 0.067
+-->	Epoch 0098:	Validation Loss: 1.884
+-->	Epoch 0098:	Segment UAR (Pred): 0.624
+-->	Epoch 0098:	Subject UAR: 0.757
+-->	Epoch 0099:	Training Loss: 0.070
+-->	Epoch 0099:	Validation Loss: 1.794
+-->	Epoch 0099:	Segment UAR (Pred): 0.628
+-->	Epoch 0099:	Subject UAR: 0.757
+-->	Epoch 0100:	Training Loss: 0.057
+-->	Epoch 0100:	Validation Loss: 1.534
+-->	Epoch 0100:	Segment UAR (Pred): 0.621
+-->	Epoch 0100:	Subject UAR: 0.708
+-->	Epoch 0101:	Training Loss: 0.050
+-->	Epoch 0101:	Validation Loss: 1.765
+-->	Epoch 0101:	Segment UAR (Pred): 0.622
+-->	Epoch 0101:	Subject UAR: 0.694
+-->	Epoch 0102:	Training Loss: 0.066
+-->	Epoch 0102:	Validation Loss: 1.891
+-->	Epoch 0102:	Segment UAR (Pred): 0.608
+-->	Epoch 0102:	Subject UAR: 0.715
+-->	Epoch 0103:	Training Loss: 0.051
+-->	Epoch 0103:	Validation Loss: 1.964
+-->	Epoch 0103:	Segment UAR (Pred): 0.632
+-->	Epoch 0103:	Subject UAR: 0.819
+-->	Epoch 0104:	Training Loss: 0.053
+-->	Epoch 0104:	Validation Loss: 1.813
+-->	Epoch 0104:	Segment UAR (Pred): 0.604
+-->	Epoch 0104:	Subject UAR: 0.757
+-->	Epoch 0105:	Training Loss: 0.097
+-->	Epoch 0105:	Validation Loss: 2.113
+-->	Epoch 0105:	Segment UAR (Pred): 0.618
+-->	Epoch 0105:	Subject UAR: 0.757
+-->	Epoch 0106:	Training Loss: 0.063
+-->	Epoch 0106:	Validation Loss: 1.798
+-->	Epoch 0106:	Segment UAR (Pred): 0.643
+-->	Epoch 0106:	Subject UAR: 0.757
+-->	Epoch 0107:	Training Loss: 0.057
+-->	Epoch 0107:	Validation Loss: 1.642
+-->	Epoch 0107:	Segment UAR (Pred): 0.630
+-->	Epoch 0107:	Subject UAR: 0.889
+-->	Epoch 0108:	Training Loss: 0.050
+-->	Epoch 0108:	Validation Loss: 1.559
+-->	Epoch 0108:	Segment UAR (Pred): 0.627
+-->	Epoch 0108:	Subject UAR: 0.819
+-->	Epoch 0109:	Training Loss: 0.057
+-->	Epoch 0109:	Validation Loss: 1.930
+-->	Epoch 0109:	Segment UAR (Pred): 0.597
+-->	Epoch 0109:	Subject UAR: 0.653
+-->	Epoch 0110:	Training Loss: 0.059
+-->	Epoch 0110:	Validation Loss: 1.730
+-->	Epoch 0110:	Segment UAR (Pred): 0.638
+-->	Epoch 0110:	Subject UAR: 0.819
+-->	Epoch 0111:	Training Loss: 0.038
+-->	Epoch 0111:	Validation Loss: 1.806
+-->	Epoch 0111:	Segment UAR (Pred): 0.612
+-->	Epoch 0111:	Subject UAR: 0.819
+-->	Epoch 0112:	Training Loss: 0.041
+-->	Epoch 0112:	Validation Loss: 1.938
+-->	Epoch 0112:	Segment UAR (Pred): 0.625
+-->	Epoch 0112:	Subject UAR: 0.819
+-->	Epoch 0113:	Training Loss: 0.027
+-->	Epoch 0113:	Validation Loss: 1.895
+-->	Epoch 0113:	Segment UAR (Pred): 0.613
+-->	Epoch 0113:	Subject UAR: 0.757
+-->	Epoch 0114:	Training Loss: 0.057
+-->	Epoch 0114:	Validation Loss: 1.678
+-->	Epoch 0114:	Segment UAR (Pred): 0.614
+-->	Epoch 0114:	Subject UAR: 0.819
+-->	Epoch 0115:	Training Loss: 0.044
+-->	Epoch 0115:	Validation Loss: 1.890
+-->	Epoch 0115:	Segment UAR (Pred): 0.617
+-->	Epoch 0115:	Subject UAR: 0.757
+-->	Epoch 0116:	Training Loss: 0.033
+-->	Epoch 0116:	Validation Loss: 2.090
+-->	Epoch 0116:	Segment UAR (Pred): 0.602
+-->	Epoch 0116:	Subject UAR: 0.653
+-->	Epoch 0117:	Training Loss: 0.074
+-->	Epoch 0117:	Validation Loss: 1.730
+-->	Epoch 0117:	Segment UAR (Pred): 0.627
+-->	Epoch 0117:	Subject UAR: 0.771
+-->	Epoch 0118:	Training Loss: 0.085
+-->	Epoch 0118:	Validation Loss: 1.876
+-->	Epoch 0118:	Segment UAR (Pred): 0.618
+-->	Epoch 0118:	Subject UAR: 0.562
+-->	Epoch 0119:	Training Loss: 0.111
+-->	Epoch 0119:	Validation Loss: 1.448
+-->	Epoch 0119:	Segment UAR (Pred): 0.625
+-->	Epoch 0119:	Subject UAR: 0.667
+-->	Epoch 0120:	Training Loss: 0.117
+-->	Epoch 0120:	Validation Loss: 1.493
+-->	Epoch 0120:	Segment UAR (Pred): 0.617
+-->	Epoch 0120:	Subject UAR: 0.632
+-->	Epoch 0121:	Training Loss: 0.084
+-->	Epoch 0121:	Validation Loss: 1.386
+-->	Epoch 0121:	Segment UAR (Pred): 0.627
+-->	Epoch 0121:	Subject UAR: 0.757
+-->	Epoch 0122:	Training Loss: 0.057
+-->	Epoch 0122:	Validation Loss: 2.010
+-->	Epoch 0122:	Segment UAR (Pred): 0.581
+-->	Epoch 0122:	Subject UAR: 0.701
+-->	Epoch 0123:	Training Loss: 0.035
+-->	Epoch 0123:	Validation Loss: 2.566
+-->	Epoch 0123:	Segment UAR (Pred): 0.595
+-->	Epoch 0123:	Subject UAR: 0.507
+-->	Epoch 0124:	Training Loss: 0.063
+-->	Epoch 0124:	Validation Loss: 2.075
+-->	Epoch 0124:	Segment UAR (Pred): 0.589
+-->	Epoch 0124:	Subject UAR: 0.660
+-->	Epoch 0125:	Training Loss: 0.048
+-->	Epoch 0125:	Validation Loss: 1.923
+-->	Epoch 0125:	Segment UAR (Pred): 0.629
+-->	Epoch 0125:	Subject UAR: 0.757
+-->	Epoch 0126:	Training Loss: 0.072
+-->	Epoch 0126:	Validation Loss: 1.761
+-->	Epoch 0126:	Segment UAR (Pred): 0.637
+-->	Epoch 0126:	Subject UAR: 0.764
+-->	Epoch 0127:	Training Loss: 0.055
+-->	Epoch 0127:	Validation Loss: 1.589
+-->	Epoch 0127:	Segment UAR (Pred): 0.655
+-->	Epoch 0127:	Subject UAR: 0.826
+-->	Epoch 0128:	Training Loss: 0.053
+-->	Epoch 0128:	Validation Loss: 1.543
+-->	Epoch 0128:	Segment UAR (Pred): 0.638
+-->	Epoch 0128:	Subject UAR: 0.826
+-->	Epoch 0129:	Training Loss: 0.058
+-->	Epoch 0129:	Validation Loss: 1.917
+-->	Epoch 0129:	Segment UAR (Pred): 0.600
+-->	Epoch 0129:	Subject UAR: 0.764
+-->	Epoch 0130:	Training Loss: 0.050
+-->	Epoch 0130:	Validation Loss: 2.009
+-->	Epoch 0130:	Segment UAR (Pred): 0.631
+-->	Epoch 0130:	Subject UAR: 0.708
+-->	Epoch 0131:	Training Loss: 0.034
+-->	Epoch 0131:	Validation Loss: 1.974
+-->	Epoch 0131:	Segment UAR (Pred): 0.626
+-->	Epoch 0131:	Subject UAR: 0.569
+-->	Epoch 0132:	Training Loss: 0.050
+-->	Epoch 0132:	Validation Loss: 1.648
+-->	Epoch 0132:	Segment UAR (Pred): 0.617
+-->	Epoch 0132:	Subject UAR: 0.826
+-->	Epoch 0133:	Training Loss: 0.056
+-->	Epoch 0133:	Validation Loss: 1.741
+-->	Epoch 0133:	Segment UAR (Pred): 0.613
+-->	Epoch 0133:	Subject UAR: 0.771
+-->	Epoch 0134:	Training Loss: 0.043
+-->	Epoch 0134:	Validation Loss: 1.818
+-->	Epoch 0134:	Segment UAR (Pred): 0.620
+-->	Epoch 0134:	Subject UAR: 0.694
+-->	Epoch 0135:	Training Loss: 0.040
+-->	Epoch 0135:	Validation Loss: 1.727
+-->	Epoch 0135:	Segment UAR (Pred): 0.604
+-->	Epoch 0135:	Subject UAR: 0.764
+-->	Epoch 0136:	Training Loss: 0.058
+-->	Epoch 0136:	Validation Loss: 1.590
+-->	Epoch 0136:	Segment UAR (Pred): 0.637
+-->	Epoch 0136:	Subject UAR: 0.764
+-->	Epoch 0137:	Training Loss: 0.029
+-->	Epoch 0137:	Validation Loss: 1.714
+-->	Epoch 0137:	Segment UAR (Pred): 0.628
+-->	Epoch 0137:	Subject UAR: 0.708
+-->	Epoch 0138:	Training Loss: 0.036
+-->	Epoch 0138:	Validation Loss: 1.999
+-->	Epoch 0138:	Segment UAR (Pred): 0.630
+-->	Epoch 0138:	Subject UAR: 0.701
+-->	Epoch 0139:	Training Loss: 0.049
+-->	Epoch 0139:	Validation Loss: 1.886
+-->	Epoch 0139:	Segment UAR (Pred): 0.630
+-->	Epoch 0139:	Subject UAR: 0.694
+-->	Epoch 0140:	Training Loss: 0.043
+-->	Epoch 0140:	Validation Loss: 2.169
+-->	Epoch 0140:	Segment UAR (Pred): 0.617
+-->	Epoch 0140:	Subject UAR: 0.632
+-->	Epoch 0141:	Training Loss: 0.057
+-->	Epoch 0141:	Validation Loss: 1.843
+-->	Epoch 0141:	Segment UAR (Pred): 0.590
+-->	Epoch 0141:	Subject UAR: 0.701
+-->	Epoch 0142:	Training Loss: 0.046
+-->	Epoch 0142:	Validation Loss: 1.966
+-->	Epoch 0142:	Segment UAR (Pred): 0.619
+-->	Epoch 0142:	Subject UAR: 0.764
+-->	Epoch 0143:	Training Loss: 0.043
+-->	Epoch 0143:	Validation Loss: 1.808
+-->	Epoch 0143:	Segment UAR (Pred): 0.665
+-->	Epoch 0143:	Subject UAR: 0.819
+-->	Epoch 0144:	Training Loss: 0.045
+-->	Epoch 0144:	Validation Loss: 1.986
+-->	Epoch 0144:	Segment UAR (Pred): 0.613
+-->	Epoch 0144:	Subject UAR: 0.778
+-->	Epoch 0145:	Training Loss: 0.033
+-->	Epoch 0145:	Validation Loss: 2.147
+-->	Epoch 0145:	Segment UAR (Pred): 0.575
+-->	Epoch 0145:	Subject UAR: 0.514
+-->	Epoch 0146:	Training Loss: 0.049
+-->	Epoch 0146:	Validation Loss: 2.111
+-->	Epoch 0146:	Segment UAR (Pred): 0.610
+-->	Epoch 0146:	Subject UAR: 0.653
+-->	Epoch 0147:	Training Loss: 0.037
+-->	Epoch 0147:	Validation Loss: 1.936
+-->	Epoch 0147:	Segment UAR (Pred): 0.615
+-->	Epoch 0147:	Subject UAR: 0.757
+-->	Epoch 0148:	Training Loss: 0.039
+-->	Epoch 0148:	Validation Loss: 2.108
+-->	Epoch 0148:	Segment UAR (Pred): 0.622
+-->	Epoch 0148:	Subject UAR: 0.771
+-->	Epoch 0149:	Training Loss: 0.029
+-->	Epoch 0149:	Validation Loss: 1.995
+-->	Epoch 0149:	Segment UAR (Pred): 0.653
+-->	Epoch 0149:	Subject UAR: 0.819
+-->	Epoch 0150:	Training Loss: 0.069
+-->	Epoch 0150:	Validation Loss: 2.087
+-->	Epoch 0150:	Segment UAR (Pred): 0.598
+-->	Epoch 0150:	Subject UAR: 0.639
+-->	Epoch 0151:	Training Loss: 0.039
+-->	Epoch 0151:	Validation Loss: 1.687
+-->	Epoch 0151:	Segment UAR (Pred): 0.598
+-->	Epoch 0151:	Subject UAR: 0.701
+-->	Epoch 0152:	Training Loss: 0.055
+-->	Epoch 0152:	Validation Loss: 1.796
+-->	Epoch 0152:	Segment UAR (Pred): 0.582
+-->	Epoch 0152:	Subject UAR: 0.646
+-->	Epoch 0153:	Training Loss: 0.056
+-->	Epoch 0153:	Validation Loss: 2.108
+-->	Epoch 0153:	Segment UAR (Pred): 0.560
+-->	Epoch 0153:	Subject UAR: 0.639
+-->	Epoch 0154:	Training Loss: 0.073
+-->	Epoch 0154:	Validation Loss: 1.561
+-->	Epoch 0154:	Segment UAR (Pred): 0.634
+-->	Epoch 0154:	Subject UAR: 0.764
+-->	Epoch 0155:	Training Loss: 0.024
+-->	Epoch 0155:	Validation Loss: 1.458
+-->	Epoch 0155:	Segment UAR (Pred): 0.667
+-->	Epoch 0155:	Subject UAR: 0.764
+-->	Epoch 0156:	Training Loss: 0.042
+-->	Epoch 0156:	Validation Loss: 1.862
+-->	Epoch 0156:	Segment UAR (Pred): 0.616
+-->	Epoch 0156:	Subject UAR: 0.701
+-->	Epoch 0157:	Training Loss: 0.024
+-->	Epoch 0157:	Validation Loss: 1.882
+-->	Epoch 0157:	Segment UAR (Pred): 0.623
+-->	Epoch 0157:	Subject UAR: 0.764
+-->	Epoch 0158:	Training Loss: 0.035
+-->	Epoch 0158:	Validation Loss: 1.931
+-->	Epoch 0158:	Segment UAR (Pred): 0.643
+-->	Epoch 0158:	Subject UAR: 0.757
+-->	Epoch 0159:	Training Loss: 0.033
+-->	Epoch 0159:	Validation Loss: 2.131
+-->	Epoch 0159:	Segment UAR (Pred): 0.602
+-->	Epoch 0159:	Subject UAR: 0.771
+-->	Epoch 0160:	Training Loss: 0.028
+-->	Epoch 0160:	Validation Loss: 1.964
+-->	Epoch 0160:	Segment UAR (Pred): 0.655
+-->	Epoch 0160:	Subject UAR: 0.882
+-->	Epoch 0161:	Training Loss: 0.029
+-->	Epoch 0161:	Validation Loss: 2.468
+-->	Epoch 0161:	Segment UAR (Pred): 0.590
+-->	Epoch 0161:	Subject UAR: 0.569
+-->	Epoch 0162:	Training Loss: 0.048
+-->	Epoch 0162:	Validation Loss: 1.937
+-->	Epoch 0162:	Segment UAR (Pred): 0.590
+-->	Epoch 0162:	Subject UAR: 0.667
+-->	Epoch 0163:	Training Loss: 0.071
+-->	Epoch 0163:	Validation Loss: 2.068
+-->	Epoch 0163:	Segment UAR (Pred): 0.581
+-->	Epoch 0163:	Subject UAR: 0.632
+-->	Epoch 0164:	Training Loss: 0.040
+-->	Epoch 0164:	Validation Loss: 1.753
+-->	Epoch 0164:	Segment UAR (Pred): 0.582
+-->	Epoch 0164:	Subject UAR: 0.708
+-->	Epoch 0165:	Training Loss: 0.032
+-->	Epoch 0165:	Validation Loss: 2.325
+-->	Epoch 0165:	Segment UAR (Pred): 0.581
+-->	Epoch 0165:	Subject UAR: 0.569
+-->	Epoch 0166:	Training Loss: 0.064
+-->	Epoch 0166:	Validation Loss: 2.372
+-->	Epoch 0166:	Segment UAR (Pred): 0.605
+-->	Epoch 0166:	Subject UAR: 0.708
+-->	Epoch 0167:	Training Loss: 0.071
+-->	Epoch 0167:	Validation Loss: 1.627
+-->	Epoch 0167:	Segment UAR (Pred): 0.627
+-->	Epoch 0167:	Subject UAR: 0.771
+-->	Epoch 0168:	Training Loss: 0.080
+-->	Epoch 0168:	Validation Loss: 1.613
+-->	Epoch 0168:	Segment UAR (Pred): 0.597
+-->	Epoch 0168:	Subject UAR: 0.688
+-->	Epoch 0169:	Training Loss: 0.075
+-->	Epoch 0169:	Validation Loss: 1.674
+-->	Epoch 0169:	Segment UAR (Pred): 0.628
+-->	Epoch 0169:	Subject UAR: 0.667
+-->	Epoch 0170:	Training Loss: 0.134
+-->	Epoch 0170:	Validation Loss: 1.617
+-->	Epoch 0170:	Segment UAR (Pred): 0.589
+-->	Epoch 0170:	Subject UAR: 0.576
+-->	Epoch 0171:	Training Loss: 0.074
+-->	Epoch 0171:	Validation Loss: 1.661
+-->	Epoch 0171:	Segment UAR (Pred): 0.598
+-->	Epoch 0171:	Subject UAR: 0.764
+-->	Epoch 0172:	Training Loss: 0.077
+-->	Epoch 0172:	Validation Loss: 1.697
+-->	Epoch 0172:	Segment UAR (Pred): 0.639
+-->	Epoch 0172:	Subject UAR: 0.819
+-->	Epoch 0173:	Training Loss: 0.093
+-->	Epoch 0173:	Validation Loss: 1.461
+-->	Epoch 0173:	Segment UAR (Pred): 0.608
+-->	Epoch 0173:	Subject UAR: 0.722
+-->	Epoch 0174:	Training Loss: 0.048
+-->	Epoch 0174:	Validation Loss: 1.369
+-->	Epoch 0174:	Segment UAR (Pred): 0.585
+-->	Epoch 0174:	Subject UAR: 0.632
+-->	Epoch 0175:	Training Loss: 0.063
+-->	Epoch 0175:	Validation Loss: 2.211
+-->	Epoch 0175:	Segment UAR (Pred): 0.576
+-->	Epoch 0175:	Subject UAR: 0.715
+-->	Epoch 0176:	Training Loss: 0.100
+-->	Epoch 0176:	Validation Loss: 1.910
+-->	Epoch 0176:	Segment UAR (Pred): 0.593
+-->	Epoch 0176:	Subject UAR: 0.826
+-->	Epoch 0177:	Training Loss: 0.061
+-->	Epoch 0177:	Validation Loss: 1.816
+-->	Epoch 0177:	Segment UAR (Pred): 0.626
+-->	Epoch 0177:	Subject UAR: 0.694
+-->	Epoch 0178:	Training Loss: 0.072
+-->	Epoch 0178:	Validation Loss: 1.634
+-->	Epoch 0178:	Segment UAR (Pred): 0.611
+-->	Epoch 0178:	Subject UAR: 0.694
+-->	Epoch 0179:	Training Loss: 0.060
+-->	Epoch 0179:	Validation Loss: 1.704
+-->	Epoch 0179:	Segment UAR (Pred): 0.654
+-->	Epoch 0179:	Subject UAR: 0.715
+-->	Epoch 0180:	Training Loss: 0.055
+-->	Epoch 0180:	Validation Loss: 2.115
+-->	Epoch 0180:	Segment UAR (Pred): 0.608
+-->	Epoch 0180:	Subject UAR: 0.562
+-->	Epoch 0181:	Training Loss: 0.078
+-->	Epoch 0181:	Validation Loss: 1.951
+-->	Epoch 0181:	Segment UAR (Pred): 0.629
+-->	Epoch 0181:	Subject UAR: 0.667
+-->	Epoch 0182:	Training Loss: 0.077
+-->	Epoch 0182:	Validation Loss: 2.014
+-->	Epoch 0182:	Segment UAR (Pred): 0.631
+-->	Epoch 0182:	Subject UAR: 0.750
+-->	Epoch 0183:	Training Loss: 0.119
+-->	Epoch 0183:	Validation Loss: 1.538
+-->	Epoch 0183:	Segment UAR (Pred): 0.608
+-->	Epoch 0183:	Subject UAR: 0.632
+-->	Epoch 0184:	Training Loss: 0.084
+-->	Epoch 0184:	Validation Loss: 1.263
+-->	Epoch 0184:	Segment UAR (Pred): 0.651
+-->	Epoch 0184:	Subject UAR: 0.889
+-->	Epoch 0185:	Training Loss: 0.044
+-->	Epoch 0185:	Validation Loss: 1.976
+-->	Epoch 0185:	Segment UAR (Pred): 0.613
+-->	Epoch 0185:	Subject UAR: 0.757
+-->	Epoch 0186:	Training Loss: 0.063
+-->	Epoch 0186:	Validation Loss: 1.866
+-->	Epoch 0186:	Segment UAR (Pred): 0.635
+-->	Epoch 0186:	Subject UAR: 0.764
+-->	Epoch 0187:	Training Loss: 0.030
+-->	Epoch 0187:	Validation Loss: 2.185
+-->	Epoch 0187:	Segment UAR (Pred): 0.596
+-->	Epoch 0187:	Subject UAR: 0.625
+-->	Epoch 0188:	Training Loss: 0.049
+-->	Epoch 0188:	Validation Loss: 1.867
+-->	Epoch 0188:	Segment UAR (Pred): 0.623
+-->	Epoch 0188:	Subject UAR: 0.764
+-->	Epoch 0189:	Training Loss: 0.073
+-->	Epoch 0189:	Validation Loss: 1.604
+-->	Epoch 0189:	Segment UAR (Pred): 0.590
+-->	Epoch 0189:	Subject UAR: 0.639
+-->	Epoch 0190:	Training Loss: 0.081
+-->	Epoch 0190:	Validation Loss: 1.766
+-->	Epoch 0190:	Segment UAR (Pred): 0.608
+-->	Epoch 0190:	Subject UAR: 0.688
+-->	Epoch 0191:	Training Loss: 0.075
+-->	Epoch 0191:	Validation Loss: 1.786
+-->	Epoch 0191:	Segment UAR (Pred): 0.599
+-->	Epoch 0191:	Subject UAR: 0.819
+-->	Epoch 0192:	Training Loss: 0.026
+-->	Epoch 0192:	Validation Loss: 1.758
+-->	Epoch 0192:	Segment UAR (Pred): 0.616
+-->	Epoch 0192:	Subject UAR: 0.771
+-->	Epoch 0193:	Training Loss: 0.023
+-->	Epoch 0193:	Validation Loss: 1.894
+-->	Epoch 0193:	Segment UAR (Pred): 0.587
+-->	Epoch 0193:	Subject UAR: 0.708
+-->	Epoch 0194:	Training Loss: 0.049
+-->	Epoch 0194:	Validation Loss: 2.016
+-->	Epoch 0194:	Segment UAR (Pred): 0.627
+-->	Epoch 0194:	Subject UAR: 0.653
+-->	Epoch 0195:	Training Loss: 0.035
+-->	Epoch 0195:	Validation Loss: 2.235
+-->	Epoch 0195:	Segment UAR (Pred): 0.600
+-->	Epoch 0195:	Subject UAR: 0.653
+-->	Epoch 0196:	Training Loss: 0.047
+-->	Epoch 0196:	Validation Loss: 2.011
+-->	Epoch 0196:	Segment UAR (Pred): 0.628
+-->	Epoch 0196:	Subject UAR: 0.882
+-->	Epoch 0197:	Training Loss: 0.043
+-->	Epoch 0197:	Validation Loss: 2.012
+-->	Epoch 0197:	Segment UAR (Pred): 0.621
+-->	Epoch 0197:	Subject UAR: 0.750
+-->	Epoch 0198:	Training Loss: 0.048
+-->	Epoch 0198:	Validation Loss: 1.913
+-->	Epoch 0198:	Segment UAR (Pred): 0.622
+-->	Epoch 0198:	Subject UAR: 0.653
+-->	Epoch 0199:	Training Loss: 0.044
+-->	Epoch 0199:	Validation Loss: 2.103
+-->	Epoch 0199:	Segment UAR (Pred): 0.638
+-->	Epoch 0199:	Subject UAR: 0.757
+-->	Epoch 0200:	Training Loss: 0.039
+-->	Epoch 0200:	Validation Loss: 1.769
+-->	Epoch 0200:	Segment UAR (Pred): 0.616
+-->	Epoch 0200:	Subject UAR: 0.778
