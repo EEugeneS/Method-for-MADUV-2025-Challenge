@@ -14,7 +14,7 @@ The system is designed for the classification of ultrasonic vocalisations (USVs)
 3. Download MADUV dataset, and save it to `\train_beats\dataset`.
 4. Data Trimming: Run the following command to trim the audio files into segments of 30s with a 15s overlap:
 
-   ```bash python trim.py --input_path <path_to_dataset> --output_path <path_to_output_dir> --chunk 30000 --overlap 15000 ```
+   ```bash python trim.py --input_path <path_to_dataset> --output_path <path_to_output_dir> --chunk 30000 --overlap 15000
 
    
 
