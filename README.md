@@ -31,6 +31,7 @@ The system is designed for the classification of ultrasonic vocalisations (USVs)
 - [KamijouMikoto/MADUV_2025](https://github.com/KamijouMikoto/MADUV_2025)
 
 ## Citation
+If you use this code in your research, please cite:
 
 ## References
 <a id="1"></a>[1] Yang, M. Song, X. Jing, H. Zhang, K. Qian, B. Hu, K. Tamada, T. Takumi, B. W. Schuller, and Y. Yamamoto, “Mad-uv: The 1st interspeech mice autism detection via ultrasound vocalization challenge,” arXiv preprint arXiv:2501.04292, 2025.
