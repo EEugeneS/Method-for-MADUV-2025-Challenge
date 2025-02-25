@@ -6,7 +6,7 @@ The code demonstrates signal preprocessing, feature extraction, pre-trained mode
 
 ## Introduction of the system
 
-The system is designed for the classification of ultrasonic vocalisations (USVs) for mice autism. The system first uses a novel Uniform-spaced Filter Bank method for data preprocessing and feature extraction. It then fine-tunes pre-trained BEATs model [ [2] ](#2) on the MADUV 2025 Challenge dataset [ [1] ](#1), which contains of recordings from 84 mouse subjects, including 44 wild-type and 40 ASD model type.
+The system is designed for the classification of ultrasonic vocalisations (USVs) for mice autism. The system first uses a novel Uniform-spaced Filter Bank method for data preprocessing and feature extraction. It then fine-tunes pre-trained BEATs model [ [2] ](#2) and CED model [ [3] ](#3) using the MADUV 2025 Challenge dataset [ [1] ](#1), which contains of recordings from 84 mouse subjects, including 44 wild-type and 40 ASD model type.
 
 ## Instructions (Reproduction)
 1. First, install the required dependencies included in `requirements.txt`.
@@ -39,3 +39,6 @@ If you use this code in your research, please cite:
 
 <a id="2"></a>[2] S. Chen, Y. Wu, C. Wang, S. Liu, D. Tompkins, Z. Chen, W. Che, X. Yu, and F. Wei, “Beats: Audio pre-training with acoustic tokenizers,” in International Conference on Machine Learning. PMLR, 2023, pp. 5178–5193.
 [https://dl.acm.org/doi/abs/10.5555/3618408.3618611](https://dl.acm.org/doi/abs/10.5555/3618408.3618611)
+
+<a id="3"></a>[3] H. Dinkel, Y.Wang, Z. Yan, J. Zhang, and Y.Wang, “Ced: Consistent ensemble distillation for audio tagging,” in Proc. of ICASSP. IEEE, 2024, pp. 291–295.
+[https://doi.org/10.1109/ICASSP48485.2024.10446348](https://doi.org/10.1109/ICASSP48485.2024.10446348)
