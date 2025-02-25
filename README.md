@@ -9,6 +9,8 @@ The code demonstrates signal preprocessing, feature extraction, pre-trained mode
 The system is designed for the classification of ultrasonic vocalisations (USVs) for mice autism. The system first uses a novel Uniform-spaced Filter Bank method for data preprocessing and feature extraction. It then fine-tunes pre-trained BEATs model [ [2] ](#2) and CED model [ [3] ](#3) using the MADUV 2025 Challenge dataset [ [1] ](#1), which contains of recordings from 84 mouse subjects, including 44 wild-type and 40 ASD model type.
 
 ## Instructions (Reproduction)
+In this repo, we display the code for fine-tuning pre-trained BEATs.
+
 1. First, install the required dependencies included in `requirements.txt`.
 2. Clone BEATs repository and download pre-trained checkpoints from [microsoft/unilm/tree/master/beats](https://github.com/microsoft/unilm/tree/master/beats) and put it in `/train_beats`.
 3. Download MADUV dataset, and save it to `/train_beats/dataset`.
