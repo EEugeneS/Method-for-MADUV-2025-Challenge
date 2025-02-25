@@ -5,7 +5,7 @@ This Github repo is a dispaly of our proposed system in INTERSPEECH 2025 MADUV C
 ## Introduction of the system
 
 ## Instructions
-
+1. Clone BEATs repository from [/microsoft/unilm/tree/master/beats](https://github.com/microsoft/unilm/tree/master/beats) and put it in `\train_beats`
 
 ## Acknowledgements
 
