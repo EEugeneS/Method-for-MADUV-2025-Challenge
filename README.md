@@ -21,10 +21,14 @@ The system is designed for the classification of ultrasonic vocalisations (USVs)
    ``` bash
    python train_beats.py
    
-### Test
-2. Download our fine-tuned BEATs from [huggingface.co](), and save it to `\train_beats`.
+6. **Prediction** Download our fine-tuned BEATs from [huggingface.co](), and save it to `\train_beats`, or train from scratch. Then run the following command to predict the class of audio samples in the test set:
+
+    ``` bash
+    python test.py
 
 ## Acknowledgements
+
+## Citations
 
 ## References
 <a id="1"></a>[1] Yang, M. Song, X. Jing, H. Zhang, K. Qian, B. Hu, K. Tamada, T. Takumi, B. W. Schuller, and Y. Yamamoto, “Mad-uv: The 1st interspeech mice autism detection via ultrasound vocalization challenge,” arXiv preprint arXiv:2501.04292, 2025.
