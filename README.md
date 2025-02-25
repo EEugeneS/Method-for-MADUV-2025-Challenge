@@ -1,6 +1,6 @@
 # Method_for_MADUV_Challenge_2025
 
-This Github repo is a dispaly of our proposed system for The 1st INTERSPEECH Mice Autism Detection via Ultrasound Vocalisation (MADUV) Challenge (#[1]).
+This Github repo is a dispaly of our proposed system for The 1st INTERSPEECH Mice Autism Detection via Ultrasound Vocalisation (MADUV) Challenge **[ [1] ](#1)**.
 
 The code demonstrates signal preprocessing, feature extraction, pre-trained model fine-tuning, validation, and prediction.
 
@@ -17,5 +17,5 @@ The system is designed for the classification of ultrasonic vocalisations (USVs)
 ## Acknowledgements
 
 ## References
-<a id="1"></a>[1] Yang, M. Song, X. Jing, H. Zhang, K. Qian, B. Hu, K. Tamada, T. Takumi, B. W. Schuller, and Y. Yamamoto, “Mad-uv: The 1st interspeech mice autism detection via ultrasound vocalization challenge,” arXiv preprint arXiv:2501.04292, 2025.
+<a id="1"></a>**[1]** Yang, M. Song, X. Jing, H. Zhang, K. Qian, B. Hu, K. Tamada, T. Takumi, B. W. Schuller, and Y. Yamamoto, “Mad-uv: The 1st interspeech mice autism detection via ultrasound vocalization challenge,” arXiv preprint arXiv:2501.04292, 2025.
 <a id="2"></a>[2] S. Chen, Y. Wu, C. Wang, S. Liu, D. Tompkins, Z. Chen, W. Che, X. Yu, and F. Wei, “Beats: Audio pre-training with acoustic tokenizers,” in International Conference on Machine Learning. PMLR, 2023, pp. 5178–5193.
