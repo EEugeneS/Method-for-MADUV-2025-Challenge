@@ -16,8 +16,8 @@ The system is designed for the classification of ultrasonic vocalisations (USVs)
 
    ```bash
    python trim.py --input_path <path_to_dataset> --output_path <path_to_output_dir> --chunk 30000 --overlap 15000
-
-   
+5. Feature Extraction: 
+  
 
 ### Test
 2. Download our fine-tuned BEATs from [huggingface.co](), and save it to `\train_beats`.
