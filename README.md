@@ -39,4 +39,4 @@ The system is designed for the classification of ultrasonic vocalisations (USVs)
 
 <a id="2"></a>[2] S. Chen, Y. Wu, C. Wang, S. Liu, D. Tompkins, Z. Chen, W. Che, X. Yu, and F. Wei, “Beats: Audio pre-training with acoustic tokenizers,” in International Conference on Machine Learning. PMLR, 2023, pp. 5178–5193.
 
-[https://dl.acm.org/doi/abs/10.5555/3618408.3618611(https://dl.acm.org/doi/abs/10.5555/3618408.3618611)
+[https://dl.acm.org/doi/abs/10.5555/3618408.3618611](https://dl.acm.org/doi/abs/10.5555/3618408.3618611)
