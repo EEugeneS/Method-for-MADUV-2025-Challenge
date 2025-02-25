@@ -12,7 +12,8 @@ The system is designed for the classification of ultrasonic vocalisations (USVs)
 1. First, install the required dependencies included in `requirements.txt`.
 2. Clone BEATs repository and download pre-trained checkpoints from [/microsoft/unilm/tree/master/beats](https://github.com/microsoft/unilm/tree/master/beats) and put it in `\train_beats`.
 3. Download MADUV dataset, and save it to `\train_beats\dataset`.
-4. Data Trimming: Run the following command to trim the audio files into segments of 30s with a 15s overlap: ```python python trim.py --input_path <path_to_dataset> --output_path <path_to_output_dir> --chunk 30000 --overlap 15000```
+4. Data Trimming: Run the following command to trim the audio files into segments of 30s with a 15s overlap:
+```python python trim.py --input_path <path_to_dataset> --output_path <path_to_output_dir> --chunk 30000 --overlap 15000```
    
 
 ### Test
