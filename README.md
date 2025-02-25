@@ -1,6 +1,6 @@
 # Method_for_MADUV_Challenge_2025
 
-This Github repo is a dispaly of our proposed system for The 1st INTERSPEECH Mice Autism Detection via Ultrasound Vocalisation (MADUV) Challenge [1](#1).
+This Github repo is a dispaly of our proposed system for The 1st INTERSPEECH Mice Autism Detection via Ultrasound Vocalisation (MADUV) Challenge (#[1]).
 
 The code demonstrates signal preprocessing, feature extraction, pre-trained model fine-tuning, validation, and prediction.
 
