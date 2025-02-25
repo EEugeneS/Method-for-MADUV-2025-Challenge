@@ -23,7 +23,7 @@ In this repo, we display the code for fine-tuning pre-trained BEATs.
    ``` bash
    python train_beats.py
    
-6. **Prediction** Download our fine-tuned BEATs from [huggingface.co](), and save it to `/train_beats`, or train from scratch. Then run the following command to predict the class of audio samples in the test set:
+6. **Prediction**: Download our fine-tuned BEATs from [huggingface.co](), and save it to `/train_beats`, or train from scratch. Then run the following command to predict the class of audio samples in the test set:
 
     ``` bash
     python test.py
