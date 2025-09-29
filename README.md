@@ -34,6 +34,7 @@ In this repo, we display the code for fine-tuning pre-trained BEATs.
 
 ## Citation
 If you use this code in your research, please cite:
+
 @inproceedings{song2025exploring,
   title={Exploring Pre-trained models on Ultrasound Modeling for Mice Autism Detection with Uniform Filter Bank and Attentive Scoring},
   author={Song, Yuchen and Zhang, Yucong and Li, Ming},
