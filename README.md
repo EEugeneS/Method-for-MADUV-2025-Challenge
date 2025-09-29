@@ -34,6 +34,13 @@ In this repo, we display the code for fine-tuning pre-trained BEATs.
 
 ## Citation
 If you use this code in your research, please cite:
+@inproceedings{song2025exploring,
+  title={Exploring Pre-trained models on Ultrasound Modeling for Mice Autism Detection with Uniform Filter Bank and Attentive Scoring},
+  author={Song, Yuchen and Zhang, Yucong and Li, Ming},
+  booktitle={Proc. Interspeech 2025},
+  pages={1713--1717},
+  year={2025}
+}
 
 ## References
 <a id="1"></a>[1] Yang, M. Song, X. Jing, H. Zhang, K. Qian, B. Hu, K. Tamada, T. Takumi, B. W. Schuller, and Y. Yamamoto, “Mad-uv: The 1st interspeech mice autism detection via ultrasound vocalization challenge,” arXiv preprint arXiv:2501.04292, 2025.
