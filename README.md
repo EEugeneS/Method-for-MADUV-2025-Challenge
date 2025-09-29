@@ -43,6 +43,7 @@ If you use this code in your research, please cite:
   pages={1713--1717},
   year={2025}
 }
+```
 
 ## References
 <a id="1"></a>[1] Yang, M. Song, X. Jing, H. Zhang, K. Qian, B. Hu, K. Tamada, T. Takumi, B. W. Schuller, and Y. Yamamoto, “Mad-uv: The 1st interspeech mice autism detection via ultrasound vocalization challenge,” arXiv preprint arXiv:2501.04292, 2025.
